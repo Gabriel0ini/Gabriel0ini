@@ -39,12 +39,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
 
----
-
 ## 📂 Projects
 - Coming soon...
 
----
-
 ## 📫 Contact
-- GitHub: https://github.com/YOUR_USERNAME
+- Gmail:gabrijhoan2006@gmail.com
