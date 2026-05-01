@@ -21,4 +21,30 @@
 📌 This profile showcases my projects, practice work, and continuous learning process.
 
 ---
+## 🛠️ Technologies
 
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+
+### 🧠 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=flat)
+
+### 🎯 Design Stack
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+
+### ⚙️ DevOps Stack
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
+
+---
+
+## 📂 Projects
+- Coming soon...
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/YOUR_USERNAME
